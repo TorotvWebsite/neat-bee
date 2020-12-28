@@ -7,7 +7,7 @@ sections:
     content: |
       Learn more about lgtbq+, it's movmenet and help out
     actions:
-      - label: Try Free
+      - label: Start
         url: /pricing
         style: primary
       - label: Learn More
