@@ -10,7 +10,7 @@ sections:
       - label: Start
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Move
         url: /features
         style: secondary
     image: images/classic/hero.png
