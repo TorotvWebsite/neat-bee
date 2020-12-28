@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: LGBTQ+ for Code
+    title: RocketLGBTQ
     subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
