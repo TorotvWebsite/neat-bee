@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: RocketLGBTQ
     subtitle: ''
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Learn more about lgtbq+, it's movmenet and help out
     actions:
       - label: Try Free
         url: /pricing
